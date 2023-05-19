@@ -55,7 +55,7 @@ decentNews = [
 
 ]
 
-good_sound = 'C:/Users/noah/Downloads/cashregister.mp3'
+good_sound = 'cashregister.mp3'
 
 articleGoodNews = []
 
